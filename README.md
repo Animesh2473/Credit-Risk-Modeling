@@ -1,4 +1,3 @@
-Here is a **beautifully documented README.md** for your project, which covers the app (https://loan-risk-analyzer.streamlit.app/), the technology stack, features, stepwise workflow, and a best-practices file structure.
 
 ***
 
