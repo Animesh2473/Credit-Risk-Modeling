@@ -86,7 +86,7 @@ Visit [Project Link](https://loan-risk-analyzer.streamlit.app/) in your browser.
 [8](https://docs.streamlit.io/develop/concepts/multipage-apps/overview)
 
 ## 📫 Contact
-Project Lead: Animesh Kewale
-Email: avk2473@gmail.com
-LinkedIn: [Animesh Kewale Profile](https://www.linkedin.com/in/animesh-kewale-9a4597292/)
+- Project Lead: Animesh Kewale
+- Email: avk2473@gmail.com
+- LinkedIn: [Animesh Kewale Profile](https://www.linkedin.com/in/animesh-kewale-9a4597292/)
 
